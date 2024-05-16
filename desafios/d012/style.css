@@ -1,0 +1,58 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-color: rgb(27, 27, 27);
+    color: white;
+    height: 145px;
+    text-align: center; 
+    padding: 1px;
+}
+
+header h1 {
+    font-size: 70px;
+    font-weight: bold;
+    font-family: Passion One;
+    margin-top: 20px;
+}
+
+header p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+b {
+    font-family: Passion One;
+    font-size: 20px;
+}
+
+main {
+    margin: 0px 100px ;
+    background-color: rgb(226, 202, 202);
+}
+
+main article section {
+    font-family: Sriracha;
+    width: 300px;
+    height: 10000px;
+}
+
+main  article div {
+    width: 52%;
+    height: 300px;
+}
+
+.box1 {
+    background: url(imagens/background001.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box2 {
+    background: url(imagens/background002.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

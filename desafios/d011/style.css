@@ -1,0 +1,18 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    color: #fff;
+    background: url(assets/espaco.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
